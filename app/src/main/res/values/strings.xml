@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Barling</string>
+    <string name="FACEBOOK_APP_ID">1677074699105915</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">b7a8b7cd740d06f2dd8718b8b7607949</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address_bullet">\u2022 Alamat :</string>
+    <string name="time_bullet">\u2022 Waktu :</string>
+    <string name="stylelist_bullet">\u2022 dilayani :</string>
+    <string name="bullet">\u2022 </string>
+
+</resources>

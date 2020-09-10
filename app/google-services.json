@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "178097126784",
+    "firebase_url": "https://androidbarberbooking-8baec.firebaseio.com",
+    "project_id": "androidbarberbooking-8baec",
+    "storage_bucket": "androidbarberbooking-8baec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178097126784:android:a122da99725364c7bd1565",
+        "android_client_info": {
+          "package_name": "com.example.androidbarberstaffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178097126784-0891mstkrflkraql18t0617nq8op5g6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidbarberstaffapp",
+            "certificate_hash": "51326ade929dad1921aacbab168027c77e18e8eb"
+          }
+        },
+        {
+          "client_id": "178097126784-o83nefleg16kuac2f50jqukagensq0ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57KaV2jPbuNj8yyqgtsggWDt8yNDvKZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178097126784-o83nefleg16kuac2f50jqukagensq0ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178097126784:android:ea04e2b40a742361bd1565",
+        "android_client_info": {
+          "package_name": "com.example.barberbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178097126784-uhat6qvp08kh76n6bf35cuq6pbi1ue9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barberbooking",
+            "certificate_hash": "983cdf567cb2c43e1acceb194d33e7ea340fa4c4"
+          }
+        },
+        {
+          "client_id": "178097126784-o83nefleg16kuac2f50jqukagensq0ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57KaV2jPbuNj8yyqgtsggWDt8yNDvKZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178097126784-o83nefleg16kuac2f50jqukagensq0ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
